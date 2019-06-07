@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.S;
 
 public class Payroll {
 
