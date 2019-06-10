@@ -15,7 +15,7 @@ Derived classes must be substitutable for their base classes.
 ## ISP The interface segregation principle
 Make fine grained interfaces that are client specific.
 
-## DIP The dependency managment principle
+## DIP The dependency inversion principle
 Depend on abstractions, not on concretions.
 
 
